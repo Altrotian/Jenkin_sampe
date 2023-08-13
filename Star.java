@@ -1,6 +1,6 @@
 import java.io.*;
 
-class GFG
+class Star
 {
 	// similar to inner for loop
 	public static void printRow(int n, int totalRows)
